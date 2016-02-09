@@ -1,0 +1,10 @@
+cat0.jpeg 0
+cat1.jpeg 0
+cat2.jpeg 0
+cat3.jpeg 0
+cat4.jpeg 0
+shoe0.jpeg 1
+shoe1.jpeg 1
+shoe2.jpeg 1
+shoe3.jpeg 1
+shoe4.jpeg 1
